@@ -51,7 +51,7 @@ INSTALLED_APPS = [
 
     # local apps
     'home.apps.HomeConfig',
-    #'home.apps.ContactConfig'
+    'contact.apps.ContactConfig',
 ]
 
 MIDDLEWARE = [
